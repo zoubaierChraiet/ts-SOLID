@@ -1,5 +1,5 @@
 class PrintingService {
-  print() {
+  public static print() {
     // Send mail code...
   }
 }

@@ -1,5 +1,5 @@
 class EmailService {
-  send() {
+  public static send() {
     // Send mail code...
   }
 }
