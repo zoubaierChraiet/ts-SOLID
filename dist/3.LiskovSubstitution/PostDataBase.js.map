@@ -1,0 +1,1 @@
+{"version":3,"file":"PostDataBase.js","sourceRoot":"","sources":["../../3.LiskovSubstitution/PostDataBase.ts"],"names":[],"mappings":";;AAAA,MAAM,YAAY;IAChB,GAAG,CAAC,IAAY;QACd,OAAO,gBAAgB,GAAG,IAAI,CAAC;IACjC,CAAC;IAED,UAAU,CAAC,IAAY;QACrB,OAAO,WAAW,GAAG,IAAI,CAAC;IAC5B,CAAC;IAED,cAAc,CAAC,IAAY;QACzB,OAAO,eAAe,GAAG,IAAI,CAAC;IAChC,CAAC;CACF;AAED,kBAAe,YAAY,CAAC"}

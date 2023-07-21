@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 class EmailService {
-    send() {
+    static send() {
         // Send mail code...
     }
 }

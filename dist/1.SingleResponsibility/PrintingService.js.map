@@ -1,1 +1,1 @@
-{"version":3,"file":"PrintingService.js","sourceRoot":"","sources":["../../1.SingleResponsibility/PrintingService.ts"],"names":[],"mappings":";;AAAA,MAAM,eAAe;IACnB,KAAK;QACH,oBAAoB;IACtB,CAAC;CACF;AAED,kBAAe,eAAe,CAAC"}
+{"version":3,"file":"PrintingService.js","sourceRoot":"","sources":["../../1.SingleResponsibility/PrintingService.ts"],"names":[],"mappings":";;AAAA,MAAM,eAAe;IACZ,MAAM,CAAC,KAAK;QACjB,oBAAoB;IACtB,CAAC;CACF;AAED,kBAAe,eAAe,CAAC"}
